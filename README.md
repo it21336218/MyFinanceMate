@@ -57,14 +57,16 @@ npm run build
 
 ## 📸 Screenshots
 
-![Screenshot 2025-03-31 032452](https://github.com/user-attachments/assets/7f2aba15-fdb0-4715-9700-a14516497f0f)
 
+![Screenshot 2025-03-31 032226](https://github.com/user-attachments/assets/0fcc1944-5e0a-46fb-b7fa-4421ca9d12ea)
+![Screenshot 2025-03-31 032256](https://github.com/user-attachments/assets/091a504d-9b27-4d52-8f04-3dc2b31a2700)
+![Screenshot 2025-03-31 032327](https://github.com/user-attachments/assets/055ea565-9d4f-4f05-8ed6-99d0afebe2bf)
+![Screenshot 2025-03-31 032345](https://github.com/user-attachments/assets/79d60415-cb5c-4464-9f2f-c72b401fbed5)
+![Screenshot 2025-03-31 032400](https://github.com/user-attachments/assets/4eb6dbae-0e7d-48a9-a98d-adc7ebb31fbb)
+![Screenshot 2025-03-31 032416](https://github.com/user-attachments/assets/2f06e469-ba6e-46ea-9f7c-95e07c35e46c)
+![Screenshot 2025-03-31 032437](https://github.com/user-attachments/assets/f33388ef-9eca-4a2d-92ef-f14cb69d85c6)
+![Screenshot 2025-03-31 032452](https://github.com/user-attachments/assets/95d9589b-b50a-430d-831a-2662bfa2e9ee)
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
 
 © 2025 Finance App Frontend by [Sonal Fernando ]
 
